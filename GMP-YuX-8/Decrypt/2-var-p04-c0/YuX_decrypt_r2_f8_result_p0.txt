@@ -1,0 +1,3 @@
+round = 2
+maxdegree = 2
+time = 1.0449607372283936
