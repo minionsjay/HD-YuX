@@ -19,6 +19,7 @@ The `Sum-test` folder contains scripts to test the zero-sum property for YuX. To
 
 ```bash
 cd Sum-test
+make
 ./dec-sum-Yu2x-16
 ```
 ```
