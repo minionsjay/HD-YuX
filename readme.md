@@ -65,7 +65,7 @@ decrypt sum GF(2^16): [00 00]
 Word[8] =
 decrypt sum GF(2^16): [00 00]
 Word[9] =
-解密总和 GF(2^16): [00 00]
+decrypt sum GF(2^16): [00 00]
 Word[10] =
 decrypt sum GF(2^16): [00 00]
 Word[11] =
